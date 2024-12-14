@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(254, 212, 156);
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+hr {
+  border-style: none; 
+  border-top-style: dotted;
+  border-color: rgb(235, 35, 35);
+  border-width:5px;
+  width: 1000%;
+
+}
+
+  h1 {
+    color: rgb(5, 1, 1);
+    text-align: center;
+  }
+  /* h3 {
+    
+  
+  } */
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    }
+  img {
+    width: 300px;; 
+    height: auto;;
+    border-radius:50%;
+  }
+
+  .โทรศัพย์ {
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    
+  }
+  .จดหมาย {
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+   
+  }
+  .มุด{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    
+  }
